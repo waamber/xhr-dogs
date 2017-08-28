@@ -1,0 +1,284 @@
+{
+    "dogs": [
+        {
+            "name": "Champ",
+            "color": "Red",
+            "add-on-price": 39.56,
+            "breed-id": 0,
+            "url": "http://imgur.com/teSKsGF.jpg"
+        },
+        {
+            "name": "Oliver",
+            "color": "Poop-Colored",
+            "add-on-price": 50.61,
+            "breed-id": 3,
+            "url": "http://imgur.com/hy1wM.jpg"
+        },
+        {
+            "name": "Gracie",
+            "color": "Green",
+            "add-on-price": 49.94,
+            "breed-id": 0,
+            "url": "http://imgur.com/H0Ys0F4.jpg"
+        },
+        {
+            "name": "Henry",
+            "color": "Blue",
+            "add-on-price": 41.51,
+            "breed-id": 2,
+            "url": "http://imgur.com/JMJemdh.jpg"
+        },
+        {
+            "name": "Elvis",
+            "color": "Black",
+            "add-on-price": 7.26,
+            "breed-id": 6,
+            "url": "http://imgur.com/uPQD5.jpg"
+        },
+        {
+            "name": "Ace",
+            "color": "Green",
+            "add-on-price": 4.05,
+            "breed-id": 5,
+            "url": "http://imgur.com/THB0EPk.jpg"
+        },
+        {
+            "name": "Mimi",
+            "color": "Orange",
+            "add-on-price": 57.25,
+            "breed-id": 0,
+            "url": "http://imgur.com/io65WPF.jpg"
+        },
+        {
+            "name": "Winnie",
+            "color": "Blue",
+            "add-on-price": 67.69,
+            "breed-id": 4,
+            "url": "http://imgur.com/Oxirlm3.jpg"
+        },
+        {
+            "name": "Elvis",
+            "color": "Orange",
+            "add-on-price": 33.25,
+            "breed-id": 1,
+            "url": "http://imgur.com/amlib1p.jpg"
+        },
+        {
+            "name": "Cleo",
+            "color": "Poop-Colored",
+            "add-on-price": 33.75,
+            "breed-id": 6,
+            "url": "http://imgur.com/22P70.jpg"
+        },
+        {
+            "name": "Lily",
+            "color": "Brown",
+            "add-on-price": 18.63,
+            "breed-id": 3,
+            "url": "http://imgur.com/VPuIu.jpg"
+        },
+        {
+            "name": "Stella",
+            "color": "Brown",
+            "add-on-price": 8.83,
+            "breed-id": 4,
+            "url": "http://imgur.com/14ow5EB.jpg"
+        },
+        {
+            "name": "Brody",
+            "color": "Purple",
+            "add-on-price": 0.69,
+            "breed-id": 6,
+            "url": "http://imgur.com/TWfWMj5.jpg"
+        },
+        {
+            "name": "Beau",
+            "color": "Brown",
+            "add-on-price": 33.87,
+            "breed-id": 2,
+            "url": "http://imgur.com/VPuIu.jpg"
+        },
+        {
+            "name": "Cooper",
+            "color": "Orange",
+            "add-on-price": 63.65,
+            "breed-id": 5,
+            "url": "http://imgur.com/xpLJZVc.jpg"
+        },
+        {
+            "name": "Milo",
+            "color": "Blue",
+            "add-on-price": 21.76,
+            "breed-id": 2,
+            "url": "http://imgur.com/ytxOrhM.jpg"
+        },
+        {
+            "name": "Grace",
+            "color": "Black",
+            "add-on-price": 47.87,
+            "breed-id": 0,
+            "url": "http://imgur.com/EaaCQkI.jpg"
+        },
+        {
+            "name": "Oreo",
+            "color": "Purple",
+            "add-on-price": 17.35,
+            "breed-id": 2,
+            "url": "http://imgur.com/n6hs0TZ.jpg"
+        },
+        {
+            "name": "Mocha",
+            "color": "Red",
+            "add-on-price": 51.58,
+            "breed-id": 3,
+            "url": "http://imgur.com/R5vyXpw.jpg"
+        },
+        {
+            "name": "Milo",
+            "color": "Orange",
+            "add-on-price": 52.66,
+            "breed-id": 3,
+            "url": "http://imgur.com/22P70.jpg"
+        },
+        {
+            "name": "Chloe",
+            "color": "Yellow",
+            "add-on-price": 11.55,
+            "breed-id": 6,
+            "url": "http://imgur.com/46vFJ.jpg"
+        },
+        {
+            "name": "Ginger",
+            "color": "Black",
+            "add-on-price": 56.84,
+            "breed-id": 3,
+            "url": "http://imgur.com/NvO0ASd.jpg"
+        },
+        {
+            "name": "Elvis",
+            "color": "Grey",
+            "add-on-price": 39.14,
+            "breed-id": 0,
+            "url": "http://imgur.com/2imFL5v.jpg"
+        },
+        {
+            "name": "Sparky",
+            "color": "Orange",
+            "add-on-price": 32.16,
+            "breed-id": 3,
+            "url": "http://imgur.com/HJdVR8b.jpg"
+        },
+        {
+            "name": "Rufus",
+            "color": "Purple",
+            "add-on-price": 30.02,
+            "breed-id": 5,
+            "url": "http://imgur.com/iixtzvW.jpg"
+        },
+        {
+            "name": "Dexter",
+            "color": "Poop-Colored",
+            "add-on-price": 51.94,
+            "breed-id": 4,
+            "url": "http://imgur.com/gIfofT3.jpg"
+        },
+        {
+            "name": "Beau",
+            "color": "Grey",
+            "add-on-price": 64.22,
+            "breed-id": 6,
+            "url": "http://imgur.com/f9vwgyn.jpg"
+        },
+        {
+            "name": "Rocky",
+            "color": "Blue",
+            "add-on-price": 21.91,
+            "breed-id": 5,
+            "url": "http://imgur.com/7WsW5qO.jpg"
+        },
+        {
+            "name": "Mocha",
+            "color": "Green",
+            "add-on-price": 53.19,
+            "breed-id": 3,
+            "url": "http://imgur.com/NvO0ASd.jpg"
+        },
+        {
+            "name": "Mac",
+            "color": "Grey",
+            "add-on-price": 50.83,
+            "breed-id": 1,
+            "url": "http://imgur.com/oBcyQRf.jpg"
+        },
+        {
+            "name": "Allie",
+            "color": "Green",
+            "add-on-price": 5.74,
+            "breed-id": 2,
+            "url": "http://imgur.com/nuXAw1h.jpg"
+        },
+        {
+            "name": "Riley",
+            "color": "Green",
+            "add-on-price": 64.8,
+            "breed-id": 4,
+            "url": "http://imgur.com/maiIg.jpg"
+        },
+        {
+            "name": "Cleo",
+            "color": "Poop-Colored",
+            "add-on-price": 45.66,
+            "breed-id": 3,
+            "url": "http://imgur.com/cEZ0O9v.jpg"
+        },
+        {
+            "name": "Simba",
+            "color": "Grey",
+            "add-on-price": 55.56,
+            "breed-id": 5,
+            "url": "http://imgur.com/oBcyQRf.jpg"
+        },
+        {
+            "name": "Chase",
+            "color": "Brown",
+            "add-on-price": 66.03,
+            "breed-id": 0,
+            "url": "http://imgur.com/hy1wM.jpg"
+        },
+        {
+            "name": "Ginger",
+            "color": "Orange",
+            "add-on-price": 59.68,
+            "breed-id": 1,
+            "url": "http://imgur.com/suNUuC4.jpg"
+        },
+        {
+            "name": "Sassy",
+            "color": "Brown",
+            "add-on-price": 46.39,
+            "breed-id": 2,
+            "url": "http://imgur.com/PMpaTkD.jpg"
+        },
+        {
+            "name": "Sadie",
+            "color": "Brown",
+            "add-on-price": 0.27,
+            "breed-id": 5,
+            "url": "http://imgur.com/GwEvkbs.jpg"
+        },
+        {
+            "name": "Ollie",
+            "color": "Blue",
+            "add-on-price": 57.02,
+            "breed-id": 6,
+            "url": "http://imgur.com/IC4kus2.jpg"
+        },
+        {
+            "name": "Bo",
+            "color": "Brown",
+            "add-on-price": 16.33,
+            "breed-id": 3,
+            "url": "http://imgur.com/MPY3ZuL.jpg"
+        }
+    ]
+}
