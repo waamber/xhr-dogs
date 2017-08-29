@@ -9,19 +9,19 @@ function error() {
 	console.log("AHHHHH");
 };
 
-// function breeds(){
-// 	var breedsData = JSON.parse(this.responseText); 
-// 	console.log(breedsData);
-// };
+function breeds(){
+	var data = JSON.parse(this.responseText).breeds; 
+	console.log("breeds:", data);
+};
 
-var dogRequest = new XMLHttpRequest();
+var dogRequest = new XMLHttpRequest;
 dogRequest.addEventListener("load", loadDogs);
 dogRequest.addEventListener("error", error);
 dogRequest.open("GET", "dogs.json");
 dogRequest.send();
 
-// var breedRequest = new XMLHttpRequest();
-// breedRequest.addEventListener("load", breeds);
-// breedRequest.addEventListener("error", error);
-// breedRequest.open("GET", "breeds.json");
-// breedRequest.send();
+var breedRequest = new XMLHttpRequest;
+breedRequest.addEventListener("load", breeds);
+breedRequest.addEventListener("error", error);
+breedRequest.open("GET", "breeds.json");
+breedRequest.send();
